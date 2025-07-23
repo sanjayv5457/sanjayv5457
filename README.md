@@ -169,15 +169,7 @@ class CosmicJourney {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
----
 
-## 🌌 3D Contribution Galaxy
-
-<div align="center">
-  <img src="https://github-contributions.vercel.app/api?username=sanjayv5457&block=15&gap=3&scale=1.5&color=gradient" alt="3D GitHub Contributions" />
-</div>
-
----
 
 ## 🐍 GitHub Activity Constellation
 
