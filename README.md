@@ -199,16 +199,6 @@ class CosmicJourney {
 
 ---
 
-## 🐍 GitHub Activity Constellation
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjayv5457&custom_title=🌌%20Sanjay's%20Coding%20Universe%20Activity&bg_color=0d1117&color=c9d1d9&line=f85d7f&point=c9d1d9&area=true&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
